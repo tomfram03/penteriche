@@ -1,0 +1,21 @@
+#calendar {
+	max-width: 100%;
+	margin: 0 auto;
+	font-size:15px;
+}
+
+.visualizar{
+	display: block;
+}
+
+.form{
+	display: none;
+}
+
+.pesquisar{
+	max-width: 800px;
+	margin: 15px;
+	position: fixed;
+    bottom: 350px;
+    right: 10px;        
+}

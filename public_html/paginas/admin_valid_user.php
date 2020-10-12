@@ -1,0 +1,1 @@
+<?php if(!$userLogado){header("Location: login");}?>
